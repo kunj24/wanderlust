@@ -1,10 +1,12 @@
+require('dotenv').config();
 const mongoose = require('mongoose');
 const User = require('./models/User');
 const Listing = require('./models/Listing');
 const { data: sampleListings } = require('./sampleListings');
 
 // Connect to MongoDB
-mongoose.connect('mongodb://localhost:27017/wanderlust', {
+const dbUrl = process.env.MONGODB_URI || 'mongodb://localhost:27017/wanderlust';
+mongoose.connect(dbUrl, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });

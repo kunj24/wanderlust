@@ -1,3 +1,4 @@
+require('dotenv').config();
 const express = require('express');
 const mongoose = require('mongoose');
 const session = require('express-session');
@@ -11,7 +12,8 @@ const bodyParser = require('body-parser');
 const app = express();
 
 // Connect to MongoDB
-mongoose.connect('mongodb://localhost:27017/wanderlust', {
+const dbUrl = process.env.MONGODB_URI || 'mongodb://localhost:27017/wanderlust';
+mongoose.connect(dbUrl, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
@@ -30,7 +32,7 @@ app.use(methodOverride('_method'));
 
 // Session configuration
 app.use(session({
-  secret: 'wanderlust-secret-key',
+  secret: process.env.SESSION_SECRET || 'wanderlust-secret-key',
   resave: false,
   saveUninitialized: false,
   cookie: {
