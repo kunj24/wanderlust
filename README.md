@@ -19,6 +19,13 @@
   <img src="https://img.shields.io/github/stars/kunj24/wanderlust?style=for-the-badge" alt="Stars"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kunj24-wanderlust&label=Repository%20Views&color=0e75b6&style=for-the-badge" alt="Repository Views" />
+  <img src="https://img.shields.io/github/repo-size/kunj24/wanderlust?style=for-the-badge&color=orange" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/last-commit/kunj24/wanderlust?style=for-the-badge&color=blueviolet" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/issues/kunj24/wanderlust?style=for-the-badge&color=red" alt="Issues"/>
+</p>
+
 ---
 
 ### 🎯 A modern, full-stack web application for discovering and managing hotel properties worldwide.
@@ -29,6 +36,46 @@
 
 <!-- Add your project screenshot here -->
 <img src="https://via.placeholder.com/800x400/0ea5e9/ffffff?text=Wanderlust+Hotel+Listing+Platform" alt="Wanderlust Dashboard" width="100%"/>
+
+### 📺 Live Website Preview
+
+<div align="center">
+  
+**👇 Click below to see the live website in action 👇**
+
+<a href="https://wanderlust-sylk.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Open_Live_Site-Click_Here-success?style=for-the-badge&logo=render" alt="Open Live Site"/>
+</a>
+
+<br><br>
+
+<!-- Website Preview using API Screenshot Service -->
+<a href="https://wanderlust-sylk.onrender.com" target="_blank">
+  <img src="https://api.apiflash.com/v1/urltoimage?access_key=YOUR_KEY&url=https://wanderlust-sylk.onrender.com&thumbnail_width=800" alt="Website Preview" width="100%" style="border: 2px solid #ddd; border-radius: 8px;" onerror="this.src='https://via.placeholder.com/800x400/6366f1/ffffff?text=🌐+Click+to+Visit+Wanderlust+Live'"/>
+</a>
+
+<br>
+
+**🔗 Quick Access Links**
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://wanderlust-sylk.onrender.com/listings"><img src="https://img.shields.io/badge/🏨_Browse_Hotels-View-blue?style=flat-square" alt="Browse Hotels"/></a>
+<br><small>Explore Listings</small>
+</td>
+<td align="center" width="33%">
+<a href="https://wanderlust-sylk.onrender.com/login"><img src="https://img.shields.io/badge/🔐_Login-Access-green?style=flat-square" alt="Login"/></a>
+<br><small>User Login</small>
+</td>
+<td align="center" width="33%">
+<a href="https://wanderlust-sylk.onrender.com/signup"><img src="https://img.shields.io/badge/✨_Sign_Up-Register-orange?style=flat-square" alt="Sign Up"/></a>
+<br><small>Create Account</small>
+</td>
+</tr>
+</table>
+
+</div>
 
 </div>
 
@@ -116,6 +163,20 @@
 
 ### 🌐 **Live Application**
 #### 👉 [Visit Wanderlust](https://wanderlust-sylk.onrender.com) 👈
+
+**Website Status**  
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=success&up_message=online&url=https%3A%2F%2Fwanderlust-sylk.onrender.com)
+
+<br>
+
+### 🔍 View Repository in Different IDEs
+
+<p align="center">
+  <a href="https://github1s.com/kunj24/wanderlust" title="Open in GitHub1s"><img src="https://img.shields.io/badge/Open%20in-GitHub1s-222222?style=for-the-badge&logo=github&logoColor=white" alt="Open in GitHub1s"/></a>
+  <a href="https://gitpod.io/#https://github.com/kunj24/wanderlust" title="Open in Gitpod"><img src="https://img.shields.io/badge/Open%20in-Gitpod-FF6C37?style=for-the-badge&logo=gitpod&logoColor=white" alt="Open in Gitpod"/></a>
+  <a href="https://vscode.dev/github/kunj24/wanderlust" title="Open in VSCode.dev"><img src="https://img.shields.io/badge/Open%20in-VSCode.dev-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Open in VSCode.dev"/></a>
+  <a href="https://github.dev/kunj24/wanderlust" title="Open in GitHub.dev"><img src="https://img.shields.io/badge/Open%20in-GitHub.dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open in GitHub.dev"/></a>
+</p>
 
 <br>
 
