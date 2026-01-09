@@ -53,58 +53,6 @@
   <img src="https://via.placeholder.com/800x450/1e293b/ffffff?text=🏨+Wanderlust+Live+Website+Preview+%7C+Click+to+Visit" alt="Website Preview" width="100%" style="border-radius: 10px;"/>
 </a>
 
-<br><br>
-
-**🔗 Quick Access Links**
-
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://wanderlust-sylk.onrender.com/listings">
-  <img src="https://img.shields.io/badge/🏨_Browse_Hotels-Explore-blue?style=for-the-badge" alt="Browse Hotels"/>
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://wanderlust-sylk.onrender.com/login">
-  <img src="https://img.shields.io/badge/🔐_Login-Access-green?style=for-the-badge" alt="Login"/>
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://wanderlust-sylk.onrender.com/signup">
-  <img src="https://img.shields.io/badge/✨_Sign_Up-Register-orange?style=for-the-badge" alt="Sign Up"/>
-</a>
-</td>
-</tr>
-</table>
-
-**📊 Website Status**  
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=success&up_message=online&url=https%3A%2F%2Fwanderlust-sylk.onrender.com&label=Site%20Status)
-
-</div>
-
----
-
-## 🔍 View Repository in Different IDEs
-
-<div align="center">
-
-<a href="https://github1s.com/kunj24/wanderlust">
-  <img src="https://img.shields.io/badge/Open%20in-GitHub1s-222222?style=for-the-badge&logo=github&logoColor=white" alt="Open in GitHub1s"/>
-</a>
-<a href="https://gitpod.io/#https://github.com/kunj24/wanderlust">
-  <img src="https://img.shields.io/badge/Open%20in-Gitpod-FF6C37?style=for-the-badge&logo=gitpod&logoColor=white" alt="Open in Gitpod"/>
-</a>
-<a href="https://vscode.dev/github/kunj24/wanderlust">
-  <img src="https://img.shields.io/badge/Open%20in-VSCode.dev-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Open in VSCode.dev"/>
-</a>
-<a href="https://github.dev/kunj24/wanderlust">
-  <img src="https://img.shields.io/badge/Open%20in-GitHub.dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open in GitHub.dev"/>
-</a>
-
-</div>
-
-<br>
-
 <!-- Add your project screenshot here -->
 <img src="https://via.placeholder.com/800x400/0ea5e9/ffffff?text=Wanderlust+Hotel+Listing+Platform" alt="Wanderlust Dashboard" width="100%"/>
 
