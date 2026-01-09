@@ -38,25 +38,9 @@
 
 ## 📺 Live Website Preview
 
-<div align="center">
+**🌐 Live Demo:** [Visit Wanderlust](https://wanderlust-sylk.onrender.com)
 
-### 👇 Click below to see the live website in action 👇
-
-<a href="https://wanderlust-sylk.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Open_Live_Site-Click_Here-success?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Open Live Site" />
-</a>
-
-<br><br>
-
-<!-- Website Preview Screenshot -->
-<a href="https://wanderlust-sylk.onrender.com" target="_blank">
-  <img src="https://via.placeholder.com/800x450/1e293b/ffffff?text=🏨+Wanderlust+Live+Website+Preview+%7C+Click+to+Visit" alt="Website Preview" width="100%" style="border-radius: 10px;"/>
-</a>
-
-<!-- Add your project screenshot here -->
-<img src="https://via.placeholder.com/800x400/0ea5e9/ffffff?text=Wanderlust+Hotel+Listing+Platform" alt="Wanderlust Dashboard" width="100%"/>
-
-</div>
+![Wanderlust Dashboard](https://via.placeholder.com/800x400/0ea5e9/ffffff?text=Wanderlust+Hotel+Listing+Platform)
 
 ---
 
@@ -138,17 +122,9 @@
 
 ## 🎬 Demo
 
-<div align="center">
+### 🌐 Live Application
 
-### 🌐 **Live Application**
-#### 👉 [Visit Wanderlust](https://wanderlust-sylk.onrender.com) 👈
-
-<br>
-
-<!-- Add demo GIF or video here -->
-<p>
-<img src="https://via.placeholder.com/600x300/6366f1/ffffff?text=🎥+Demo+Video+Coming+Soon" alt="Demo" width="600px"/>
-</p>
+👉 **[Visit Wanderlust](https://wanderlust-sylk.onrender.com)** 👈
 
 ### 🎯 Try it out with demo credentials:
 ```
@@ -156,30 +132,18 @@ Username: demo
 Password: password123
 ```
 
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Stack" />
-</p>
+![Backend Stack](https://skillicons.dev/icons?i=nodejs,express,mongodb)
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" alt="Frontend Stack" />
-</p>
+![Frontend Stack](https://skillicons.dev/icons?i=html,css,bootstrap,js)
 
 ### Tools & Services
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,render" alt="Tools" />
-</p>
-
-</div>
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,render)
 
 <details>
 <summary><b>📦 Detailed Technology Breakdown</b></summary>
@@ -394,17 +358,10 @@ npm start
 
 ### 7️⃣ Access the Application
 
-<div align="center">
+🎉 **Success!** Your app is running at:
 
-#### 🎉 **Success!** Your app is running at:
-
-### 🏠 Local Development
-**http://localhost:3000**
-
-### 🌐 Production
-**https://wanderlust-sylk.onrender.com**
-
-</div>
+- **🏠 Local Development:** http://localhost:3000
+- **🌐 Production:** https://wanderlust-sylk.onrender.com
 
 </details>
 
@@ -516,18 +473,10 @@ wanderlust/
 
 After running `npm run seed`, use these credentials to login:
 
-<div align="center">
-
 ```
-┌─────────────────────────────┐
-│  🔐 Demo Account Details    │
-├─────────────────────────────┤
-│  Username: demo             │
-│  Password: password123      │
-└─────────────────────────────┘
+Username: demo
+Password: password123
 ```
-
-</div>
 
 ---
 
@@ -936,14 +885,9 @@ Error when running npm run seed
 
 ## 🤝 Contributing
 
-<div align="center">
-
 ### We ❤️ Contributions!
 
-Contributions make the open-source community an amazing place to learn, inspire, and create.  
-**Any contributions you make are greatly appreciated!**
-
-</div>
+Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated!
 
 <details>
 <summary><b>📋 Contribution Guidelines</b></summary>
@@ -1021,8 +965,6 @@ See the [LICENSE](LICENSE) file for details.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-</div>
-
 ---
 
 ## � Future Enhancements
@@ -1063,38 +1005,23 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-<div align="center">
+**Kunj** - Full Stack Developer | Open Source Enthusiast
 
-<img src="https://github.com/kunj24.png" width="100" height="100" style="border-radius: 50%;" alt="Kunj"/>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunj24)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 
-### **Kunj**
-
-*Full Stack Developer | Open Source Enthusiast*
-
-<p>
-<a href="https://github.com/kunj24"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</p>
-
-**Project Links**
+**Project Links:**
 - 🌐 **Live Demo**: [https://wanderlust-sylk.onrender.com](https://wanderlust-sylk.onrender.com)
 - 📁 **Repository**: [https://github.com/kunj24/wanderlust](https://github.com/kunj24/wanderlust)
 - 🐛 **Report Bug**: [Open an Issue](https://github.com/kunj24/wanderlust/issues)
 - 💡 **Request Feature**: [Open an Issue](https://github.com/kunj24/wanderlust/issues)
 
-</div>
-
 ---
 
 ## 🙏 Acknowledgments
 
-<div align="center">
-
-### Special Thanks To
-
-</div>
+Special thanks to:
 
 <table>
 <tr>
@@ -1151,29 +1078,11 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 📞 Support
 
-<div align="center">
-
 ### Need Help? We're Here!
 
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>📖</h3>
-<strong>Documentation</strong>
-<br><small>Read the docs above</small>
-</td>
-<td align="center" width="33%">
-<h3>🐛</h3>
-<strong>Report Issues</strong>
-<br><small><a href="https://github.com/kunj24/wanderlust/issues">GitHub Issues</a></small>
-</td>
-<td align="center" width="33%">
-<h3>💬</h3>
-<strong>Discussions</strong>
-<br><small><a href="https://github.com/kunj24/wanderlust/discussions">Start a Discussion</a></small>
-</td>
-</tr>
-</table>
+**📖 Documentation** - Read the docs above  
+**🐛 Report Issues** - [GitHub Issues](https://github.com/kunj24/wanderlust/issues)  
+**💬 Discussions** - [Start a Discussion](https://github.com/kunj24/wanderlust/discussions)
 
 ### Show Your Support
 
@@ -1182,15 +1091,8 @@ If you found this project helpful, please consider:
 ⭐ **Starring** this repository  
 🍴 **Forking** to contribute  
 📢 **Sharing** with others  
-☕ **Buying me a coffee** (if you'd like!)
-
-<a href="https://www.buymeacoffee.com/yourname"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
-
-</div>
 
 ---
-
-<div align="center">
 
 ### 📊 Repository Stats
 
@@ -1204,13 +1106,7 @@ If you found this project helpful, please consider:
 
 ---
 
-### Made with ❤️ by [Kunj](https://github.com/kunj24)
-
-*Happy Coding! 🚀*
-
----
+Made with ❤️ by [Kunj](https://github.com/kunj24) | Happy Coding! 🚀
 
 **© 2026 Wanderlust. All Rights Reserved.**
-
-</div>
 
