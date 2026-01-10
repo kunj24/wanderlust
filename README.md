@@ -1,5 +1,6 @@
 <div align="center">
 
+
 # 🌍 Wanderlust
 
 ### *Your Gateway to Dream Destinations*
